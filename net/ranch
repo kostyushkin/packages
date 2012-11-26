@@ -1,0 +1,13 @@
+{name, "Ranch"}.
+{description, "Socket acceptor pool for TCP protocols."}.
+{license, "ISC"}.
+{source, git, "git://github.com/extend/ranch.git"}.
+{otp_versions, ["R15"]}.
+{links, [
+	{"Github page",
+		"https://github.com/extend/ranch"},
+	{"User guide",
+		"http://ninenines.eu/docs/en/ranch/HEAD/guide/introduction"},
+	{"Commercial support",
+		"http://ninenines.eu/support"}
+]}.
