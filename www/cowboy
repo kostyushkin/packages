@@ -1,0 +1,13 @@
+{name, "Cowboy"}.
+{description, "Small, fast, modular HTTP server."}.
+{license, "ISC"}.
+{source, git, "git://github.com/extend/cowboy.git"}.
+{otp_versions, ["R15"]}.
+{links, [
+	{"Project page",
+		"https://github.com/extend/cowboy"},
+	{"User guide",
+		"http://ninenines.eu/docs/en/cowboy/HEAD/guide/introduction"},
+	{"Commercial support",
+		"http://ninenines.eu/support"}
+]}.
