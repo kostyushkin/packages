@@ -1,0 +1,11 @@
+{name, "Erlang/OTP"}.
+{description, "A programming language for massively scalable "
+	"soft real-time systems with requirements on high availability."}.
+{license, "EPL 1.1"}.
+{source, git, "git://github.com/erlang/otp.git"}.
+{otp_versions, all}.
+{links, [
+	{"Project page", "http://www.erlang.org"},
+	{"Project page on Github", "https://github.com/erlang/otp"},
+	{"Documentation", "http://www.erlang.org/doc/"}
+]}.
