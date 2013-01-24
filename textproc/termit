@@ -1,0 +1,9 @@
+{name, "termit"}.
+{description, "Library for serializing Erlang terms "
+    "to signed encrypted binaries and reliably deserializing them back"}.
+{license, "MIT"}.
+{source, git, "git://github.com/dvv/termit.git"}.
+{otp_versions, ["R15+"]}.
+{links, [
+	{"Project page", "https://github.com/dvv/termit"}
+]}.

@@ -1,0 +1,9 @@
+{name, "cookie_session"}.
+{description, "Library for managing a moderately sized sessions "
+    "inside secure signed encrypted cookies"}.
+{license, "MIT"}.
+{source, git, "git://github.com/dvv/cookie_session.git"}.
+{otp_versions, ["R15+"]}.
+{links, [
+	{"Project page", "https://github.com/dvv/cookie_session"}
+]}.
