@@ -1,0 +1,8 @@
+{name, "stable"}.
+{description, "Library of assorted helpers for Cowboy"}.
+{license, "MIT"}.
+{source, git, "git://github.com/dvv/stable.git"}.
+{otp_versions, ["R15+"]}.
+{links, [
+	{"Project page", "https://github.com/dvv/stable"}
+]}.
