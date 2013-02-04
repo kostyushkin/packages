@@ -1,0 +1,8 @@
+{name, "mmmbot"}.
+{description, "IRC bot building framework"}.
+{license, ""}.
+{source, git, "git://github.com/tsloughter/mmmbot.git"}.
+{otp_versions, ["R15+"]}.
+{links, [
+	{"", "http://"}
+]}.
