@@ -2,7 +2,7 @@
 {description, "Socket acceptor pool for TCP protocols."}.
 {license, "ISC"}.
 {source, git, "git://github.com/extend/ranch.git"}.
-{otp_versions, ["R15"]}.
+{otp_versions, ["R15+"]}.
 {links, [
 	{"Github page",
 		"https://github.com/extend/ranch"},
