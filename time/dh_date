@@ -1,0 +1,8 @@
+{name, "dh_date"}.
+{description, "Date formatting / parsing library for erlang"}.
+{license, "DWTFYW License"}.
+{source, git, "git://github.com/daleharvey/dh_date.git"}.
+{otp_versions, ["R15+"]}.
+{links, [
+	{"Project page", "https://github.com/daleharvey/dh_date"}
+]}.
