@@ -4,5 +4,5 @@
 {source, git, "git://github.com/"}.
 {otp_versions, ["R15+"]}.
 {links, [
-  {"", "http://"}
+	{"", "http://"}
 ]}.

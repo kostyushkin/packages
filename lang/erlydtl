@@ -4,5 +4,5 @@
 {source, git, "git://github.com/evanmiller/erlydtl.git"}.
 {otp_versions, ["R15+"]}.
 {links, [
-  {"Project page", "https://github.com/evanmiller/erlydtl"}
+	{"Project page", "https://github.com/evanmiller/erlydtl"}
 ]}.
