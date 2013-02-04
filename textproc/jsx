@@ -1,0 +1,9 @@
+{name, "jsx"}.
+{description, "An erlang application for consuming, "
+	"producing and manipulating json"}.
+{license, "MIT"}.
+{source, git, "git://github.com/talentdeficit/jsx.git"}.
+{otp_versions, ["R15+"]}.
+{links, [
+	{"Project page", "https://github.com/talentdeficit/jsx"}
+]}.
