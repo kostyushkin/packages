@@ -1,0 +1,8 @@
+{name, "ePubNub"}.
+{description, "Erlang API for PubNub.com real-time messaging service"}.
+{license, ""}.
+{source, git, "git://github.com/tsloughter/epubnub.git"}.
+{otp_versions, ["R15+"]}.
+{links, [
+	{"PubNub", "http://www.pubnub.com"}
+]}.

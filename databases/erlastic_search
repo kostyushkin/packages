@@ -1,0 +1,8 @@
+{name, "ErlasticSearch"}.
+{description, "ElasticSearch client"}.
+{license, ""}.
+{source, git, "git://github.com/tsloughter/erlastic_search.git"}.
+{otp_versions, ["R15+"]}.
+{links, [
+	{"ElasticSearch", "http://www.elasticsearch.org/"}
+]}.
