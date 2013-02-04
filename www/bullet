@@ -1,0 +1,11 @@
+{name, "Bullet"}.
+{description, "Simple, reliable, efficient streaming for Cowboy."}.
+{license, "ISC"}.
+{source, git, "git://github.com/extend/bullet.git"}.
+{otp_versions, ["R15+"]}.
+{links, [
+	{"Project page",
+		"https://github.com/extend/bullet"},
+	{"Commercial support",
+		"http://ninenines.eu/support"}
+]}.
