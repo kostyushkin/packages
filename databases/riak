@@ -1,0 +1,8 @@
+{name, "Riak"}.
+{description, "Riak is a decentralized datastore from Basho Technologies."}.
+{license, "Apache License 2.0"}.
+{source, git, "git://github.com/basho/riak.git"}.
+{otp_versions, ["R15+"]}.
+{links, [
+	{"Project page", "https://github.com/basho/riak"}
+]}.
