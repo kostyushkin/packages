@@ -2,7 +2,7 @@
 {description, ""}.
 {license, ""}.
 {source, git, "git://github.com/"}.
-{otp_versions, ["R15"]}.
+{otp_versions, ["R15+"]}.
 {links, [
   {"", "http://"}
 ]}.
