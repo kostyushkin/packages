@@ -4,7 +4,7 @@
 {source, git, "git://github.com/extend/ranch.git"}.
 {otp_versions, ["R15+"]}.
 {links, [
-	{"Github page",
+	{"Project page",
 		"https://github.com/extend/ranch"},
 	{"User guide",
 		"http://ninenines.eu/docs/en/ranch/HEAD/guide/introduction"},
