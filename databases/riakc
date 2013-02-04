@@ -1,0 +1,8 @@
+{name, "Riak Protocol Buffers Client"}.
+{description, "Erlang client for Riak."}.
+{license, "Apache License 2.0"}.
+{source, git, "git://github.com/basho/riak-erlang-client.git"}.
+{otp_versions, ["R13B04+"]}.
+{links, [
+	{"Project page", "https://github.com/basho/riak-erlang-client"}
+]}.
