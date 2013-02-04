@@ -1,0 +1,8 @@
+{name, "Lager"}.
+{description, "A logging framework for Erlang/OTP"}.
+{license, "Apache License 2.0"}.
+{source, git, "git://github.com/basho/lager.git"}.
+{otp_versions, ["R15+"]}.
+{links, [
+	{"Project page", "https://github.com/basho/lager"}
+]}.
