@@ -1,0 +1,8 @@
+{name, "MessagePack Erlang"}.
+{description, "MessagePack serializer and RPC implementation for Erlang."}.
+{license, "Apache License 2.0"}.
+{source, git, "git://github.com/msgpack/msgpack-erlang.git"}.
+{otp_versions, ["R15+"]}.
+{links, [
+	{"Project page", "https://github.com/msgpack/msgpack-erlang"}
+]}.
