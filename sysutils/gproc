@@ -1,6 +1,6 @@
 {name, "gproc"}.
 {description, "Extended process registry for Erlang"}.
-{license, "EPL"}.
+{license, "EPL 1.1"}.
 {source, git, "git://github.com/esl/gproc.git"}.
 {otp_versions, ["R15+"]}.
 {links, [

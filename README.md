@@ -52,6 +52,13 @@ Licenses
 This is a list of licenses with projects in this repository, with
 a link to said licenses.
 
+ *  [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
  *  [EPL 1.1](http://www.erlang.org/EPLICENSE)
  *  [ISC](http://opensource.org/licenses/isc-license.txt)
+ *  [MIT](http://opensource.org/licenses/MIT)
  *  Proprietary
+
+Some projects may not come with a license, or may come with a license
+we cannot find information about. These include:
+
+ *  DWTFYW License
